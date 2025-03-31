@@ -39,5 +39,36 @@
     scanf("%d", &pontos turisticos);
     prinf("pontos turisticos: %d\n", pontos turisticos);
 
+    printf("carta2\n");
+
+    printf("digite o estado: \n");
+    scanf("%c", &estado);
+    printf("estado: %c\n", estado);
+
+    printf("código da carta: \n");
+    scanf("%s", &código da carta);
+    printf("código: %s\n", código);
+    
+    printf("nome da cidade: \n");
+    scanf("%s", &nome da cidade: \n);
+    printf("cidade: %s\n", cidade);
+
+    printf("população: \n");
+    scanf("%d", &população);
+    printf("população: %d\n", população);
+
+    printf("área: \n");
+    scanf("%f", &área);
+    printf("área: %.2f km²\n", área);
+
+    printf("pib: \n");
+    scanf("%f", &pib);
+    prinf("pib: %.2f bilhões de reais\n", pib);
+
+    printf("pontos turisticos: \n");
+    scanf("%d", &pontos turisticos);
+    prinf("pontos turisticos: %d\n", pontos turisticos);
+
+
     return 0;
     }

@@ -2,7 +2,7 @@
 
     int main(){
 
-    char estado: (Ceara;
+    char estado: (Ceara);
     char código_carta:  (["A01", "B02", "C03", "D04", "E05", "F06", "G07", "H08"]);
     char nome_cidade: ([Fortaleza]);
     int populcao:2000000;

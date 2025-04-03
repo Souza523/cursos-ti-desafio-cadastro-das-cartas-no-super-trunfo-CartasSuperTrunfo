@@ -9,7 +9,7 @@
     int populacao_01, populacao_02;
     float area_01, area_02;
     float pib_01, pib_02;
-    int pontos_turisticos_01,pontos_turisticos_02;
+    int pontos_turisticos_01, pontos_turisticos_02;
 
     printf("carta1\n");
 

@@ -3,9 +3,9 @@
     int main()
     {
 
-    char estado_01, estado_02;
-    char codigo_carta_01[20],codigo_carta_02[20];
-    char cidade_01[50],cidade_02[50]);
+    char estado_01[10] = {'a','b','c','d','e','f','g','h'}, estado_02[10] = {'a','b','c','d','e','f','g','h'};
+    char codigo_carta_01[20], codigo_carta_02[20];
+    char cidade_01[50], cidade_02[50];
     int populacao_01, populacao_02;
     float area_01, area_02;
     float pib_01, pib_02;
